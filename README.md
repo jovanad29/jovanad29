@@ -18,7 +18,7 @@
 <a href="https://sequelize.org/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669572/Portfolio/Skills/sequelize_tfgs7y.png" alt="Sequelize" title='Sequelize' width="40" height="40"/> </a>
 <a href="https://expressjs.com/en/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669555/Portfolio/Skills/express_cajcvz.png" alt="Express" title='Express' width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/postgre_tuhc5q.png" alt="PostgreSQL" title='PostgreSQL' width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669570/Portfolio/Skills/git_eoefu5.png" alt="Git" title='Git' width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/github_ozvo4h.png" alt="GitHub" title='GitHub' width="40" height="40"/> </a>
 </p>
 <p align="center"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
