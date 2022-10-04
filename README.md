@@ -58,4 +58,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanad29&show_icons=true&locale=en&layout=compact" alt="jovanad29" />
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jovanad29&show_icons=true&locale=en" alt="jovanad29" /></p>
-<p align="center">Note: These stats are github metrics that represent my activity <i>here</i>. They do not represent my general skill level.</p>
+<p align="center">Note: These stats are github metrics that represent my activity and tools I use the most <i>here</i>.</p>
