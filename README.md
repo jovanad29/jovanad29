@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Jovana Davalillo</h1>
+<h1 align="center">Hey there 👋 My name is Jovana Davalillo</h1>
 <h3 align="center">I currently work as a full stack developer using mostly JavaScript and Python</h3>
 <p align="center">I enjoy learning new ways on making the internet a little bit more awesome and apply my knowledge on solving real life problems</p>
 <h3 align="center">Connect with me:</h3>
