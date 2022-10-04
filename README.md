@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/jovana-davalillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jovana-davalillo" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Some Languages and Tools I Use:</h3>
+<h3 align="center">Some languages and tools I use:</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/html_bquhfc.png" title='HTML' alt='HTML' width="40" height="40"/>
@@ -53,7 +53,9 @@
   </a>
 </p>
 
-<h3 align="center">Github stats</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanad29&show_icons=true&locale=en&layout=compact" alt="jovanad29" /></p>
+<h3 align="center">Github stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanad29&show_icons=true&locale=en&layout=compact" alt="jovanad29" />
+</p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jovanad29&show_icons=true&locale=en" alt="jovanad29" /></p>
-<p align="center">Note: These stats are github metrics that represent my activity and which languages I have the most <i>in here</i>. They do not represent my skill level.</p
+<p align="center">Note: These stats are github metrics that represent my activity <i>here</i>. They do not represent my general skill level.</p>
